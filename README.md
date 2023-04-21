@@ -8,7 +8,7 @@
 
 To run **xin**, follow these steps:
 
-1. Install Haskell toolchains using [GHCup]([GHCup (haskell.org)](https://www.haskell.org/ghcup/))
+1. Install Haskell toolchains using [GHCup](https://www.haskell.org/ghcup/)
    - Stack 2.9.3
    - cabal 3.6.2.0
    - GHC 9.2.7
